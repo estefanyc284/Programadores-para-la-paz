@@ -1,10 +1,10 @@
 ﻿este es mi texto de reflexion
-Existe una relación importante entre el uso de la información en internet, la participación ciudadana y la organización del trabajo tecnico 
-tecnico con Git, porque los tre dependen del trabajo colaborativo y del intercambio de información. Gracias a internet, las personas pueden 
-informarse sobre problematicas sociales y participar en debates o iniciativas ciudadanas. Esa interaccion requiere organización, responsabi
-lidad y transparencia, aspectos que también estan presentes en Git. Esta herramienta permite registar cambios, coordinar equipos y mantener
-un control sobre el trabajo realizado en proyectos tecnológicos. De manera similar, la participación ciudadana necesita procesos orgnaiza
-dos donde cada aporte sea tenido en cuenta. Tanto en el ambito social como en el técnico, las herramientas digitales ayudan a fortalecer la 
-comunicación y el trabajo en conjunto, ahí radica su importancia y utilidad en la construccion del tejido social a traves del principio de 
-la equidad, es decir, la garantia de la participación de poblaciones que antes no habian tenido la oportunidad de expresar sus opiniones y
-poder participar. 
+Existe una relación importante entre el uso de la información en internet, la participación ciudadana y la organización del trabajo técnico
+con Git, porque los tres dependen del trabajo colaborativo y del intercambio de información. Gracias a internet, las personas pueden
+informarse sobre problemáticas sociales y participar en debates o iniciativas ciudadanas. Esa interacción requiere organización,
+responsabilidad y transparencia, aspectos que también están presentes en Git. Esta herramienta permite registrar cambios, coordinar equipos
+y mantener un control sobre el trabajo realizado en proyectos tecnológicos. De manera similar, la participación ciudadana necesita procesos
+organizados donde cada aporte sea tenido en cuenta. Tanto en el ámbito social como en el técnico, las herramientas digitales ayudan a
+fortalecer la comunicación y el trabajo en conjunto, ahí radica su importancia y utilidad en la construcción del tejido social a través del
+principio de la equidad, es decir, la garantía de la participación de poblaciones que antes no habían tenido la oportunidad de expresar sus
+opiniones y poder participar. 
