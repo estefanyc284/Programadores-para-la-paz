@@ -1,7 +1,0 @@
-﻿este es mi algoritmo
-1. Buscar la información en fuentes reconocidas 
-2. Revisar la fuente
-3. Comparar la información con otras fuentes
-4. Verificar la fecha de la publicación para observar si es actualizada
-5. Compartir si es verdadera 
-6. Evitar compartir noticias falsas
