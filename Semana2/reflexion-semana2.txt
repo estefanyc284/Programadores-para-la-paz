@@ -1,0 +1,11 @@
+Para un desarrollador, saber usar la terminal es una habilidad fundamental porque permite interactuar de manera directa
+ y eficiente con el sistema operativo y los proyectos. A través de la terminal se pueden navegar carpetas, crear, mover 
+ y organizar archivos con rapidez, lo que optimiza el tiempo de trabajo. Además, muchas herramientas de desarrollo, 
+ como Git, Node.js o entornos de servidores, funcionan principalmente desde comandos en consola. Dominar la terminal 
+ también ayuda a comprender mejor la estructura interna de un proyecto y cómo se relacionan sus componentes. Esto fortalece
+ la capacidad de resolver problemas técnicos de manera más autónoma y profesional. Asimismo, trabajar desde la terminal 
+favorece la automatización de tareas repetitivas mediante scripts, aumentando la productividad. En proyectos colaborativos,
+conocer comandos básicos facilita seguir estándares de organización y comunicación entre equipos. Finalmente, el uso de la 
+terminal no solo mejora las habilidades técnicas, sino que también desarrolla el pensamiento lógico y la disciplina en el 
+manejo de proyectos de software.
+
